@@ -1,8 +1,7 @@
 {
   "name": "ts-node",
   "version": "1.0.0",
-  "description": "ts-node demo",
-  "main": "index.js",
+  "description": "ts-node template",
   "scripts": {
     "start": "ts-node src/index.ts",
     "compile-run": "tsc && node dist/index.js",
